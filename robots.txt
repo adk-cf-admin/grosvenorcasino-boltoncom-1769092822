@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://grosvenorcasino-bolton.com/
+Sitemap: https://grosvenorcasino-bolton.com/sitemap.xml

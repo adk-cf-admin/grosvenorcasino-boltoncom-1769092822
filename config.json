@@ -1,0 +1,197 @@
+{
+    "en-GB": {
+        "styles": {
+            "bg": "#1A1A1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1A1A",
+            "welcome-bonus-bg": "#1A1A1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#232323",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00CD70",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#BD9A42",
+            "yellow": "#00CD70",
+            "yellow-button": "#BD9A42",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1A1A1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#6e6e6e",
+            "pay-back": "#deeadf",
+            "providers-back": "#1A1A1A",
+            "faq-label": "#1A1A1A",
+            "bg-footer": "#1A1A1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#00CD70",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grosvenor Casino Bolton",
+            "title": "Grosvenor Casino Bolton: roulette, blackjack, poker room, slots and jackpots",
+            "description": "Explore Grosvenor Casino Bolton with 24-hour live tables, electronic roulette, slots with jackpots up to £10,000, and a dedicated poker area. Enjoy food, drinks, live sport on screens, and a comfortable night-out experience.",
+            "canonical": "grosvenorcasino-bolton.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2003",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "grosvenorcasino-bolton.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2004",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2005"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2006",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grosvenor Casino Bolton Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Grosvenor Casino Bolton — 24\/7 gaming, poker and slots",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2007",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2008",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casinos",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Big slot jackpots up to £10,000.",
+                "24-hour tables: roulette, blackjack, baccarat.",
+                "Poker room with cash games, events.",
+                "£40 bonus with £20 deposit online.",
+                "Single wallet linking venue and online.",
+                "Electronic roulette and fast-play games.",
+                "Free parking and easy-to-reach location."
+            ],
+            "advantagesAfterText": "Grosvenor Casino Bolton stands out for mixing lively gaming with a relaxed, comfortable vibe. It suits quick sessions on slots as well as longer table play and poker. On-site services and smooth membership features help make each visit simple, flexible, and enjoyable.\n",
+            "knowMore": "Know more",
+            "appTitle": "Grosvenor Casino Bolton App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2009",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grosvenor Casino Bolton App",
+            "mobileGooglePlayImageTitle": "Grosvenor Casino Bolton App",
+            "mobileIosImageTitle": "Grosvenor Casino Bolton App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Grosvenor Casino Bolton",
+                "description1": "The casino stands out for its 24\/7 schedule and a strong mix of live tables, electronic games, and poker. Add food, drinks, and live sport viewing, and it becomes a complete night-out destination.\n",
+                "items": [
+                    "Slot jackpots — up to £10,000.",
+                    "Bonus: £40 with £20 deposit.",
+                    "Poker events with sizeable prize pools."
+                ],
+                "description2": "Grosvenor Casino Bolton brings together classic table games and modern electronic play under one roof. It runs 24 hours a day, making it easy to drop in whenever it suits you. The feel typically blends a lively gaming floor with calmer spots to unwind. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2010",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Slot fans can enjoy a selection of machines and fast-paced options for shorter sessions. At the tables, you can experience the pace of roulette and blackjack and move between different limits. Poker players have a dedicated area built around cash games and special events. Food and drinks are available on site, which works well for longer visits. People often appreciate the practical side too, with clear entry rules and helpful staff. It suits groups looking for a social night as well as solo players focused on the games. Overall, it’s a well-rounded venue combining play, service, and entertainment.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "The Grosvenor Casino Bolton vibe — gaming, comfort, and late-night energy",
+                "description": "<p>\nGrosvenor Casino Bolton welcomes guests with a modern, upbeat feel that stays friendly rather than overly formal. The layout typically balances a lively gaming floor with tidy waiting areas and comfortable seating, so it feels energetic yet easy to navigate. You can move between slots, electronic terminals, and live tables without losing that sense of comfort. The atmosphere is built around a full night out: some come for the thrill of wagers, others for the social buzz and the experience. Lighting, music, and the presentation of the different zones help set the tone, backed by approachable service.\n\n<\/p>\n<br>\n\n\n<p>\nThe venue operates 24 hours a day, so your visit can be anything from a quick “luck check” to a full late-night session with breaks in between. This round-the-clock schedule suits quieter off-peak hours as well as the busier, more electric evening period. Live tables often feel like the heart of the classic casino experience, with dealers, pacing, and the rhythm of play. At the same time, electronic games help keep things moving when you want quick rounds and a faster tempo.\n\n<\/p>\n<br>\n<p>\nOn site, there is typically a bar area and a place to grab food, so you can reset without leaving the venue for long. The bar works as a natural pause point between sessions—drinks, light bites, and a chance to chat or refocus. For guests planning to stay longer, comfort and clear organisation matter, and the venue is set up for that. This turns the casino into more than just gaming—it becomes a place to relax and spend the evening.\n\n<\/p>\n<br>\n<p>\nEntertainment can include themed nights, live sport on screens, and occasional live acts, which means the mood can shift depending on the day. During special events, the feel becomes more “occasion-led”, with more energy, conversation, and a stronger sense of occasion. The poker room adds its own flavour, focused on concentration and competitive excitement. Under one roof, you get multiple ways to enjoy the night.\n\n<\/p>\n<br>\n<p>\nBonus and reward options across the Grosvenor ecosystem commonly revolve around membership and a single wallet that links in-venue play with online activity. For guests, that can mean easier balance management, tailored offers, and added perks with repeat visits. This strengthens the club-like feel and gives regulars a clear reason to return. Overall, Grosvenor Casino Bolton delivers a joined-up experience where gaming, service, and entertainment work together.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService and money matters at Grosvenor Casino Bolton — how it works<\/h3>\n\n<p>\nStaff at Grosvenor Casino Bolton are typically focused on guest care: greeting you on entry, helping you find your way around, and answering practical questions, especially for first-time visitors. Dealers keep table play running smoothly and clearly, maintaining the pace and enforcing rules consistently. In the poker area, staff support seating, waiting lists, and the operational flow of cash games and events. Overall, the approach prioritises safety, transparency, and a comfortable experience for different types of guests.\n\n<\/p>\n<br>\n\n\n<p>\nEnglish is the main language for customer support, and it’s the best way to get clear help on everything from game rules to membership and cashing out. At busy times you may come across staff who understand basic requests in other languages, but it isn’t something you should rely on. If you expect more complex questions, it helps to be ready to communicate in English or keep short notes on your phone. In any dispute, venue rules and responsible gambling standards will guide decisions.\n\n<\/p>\n<br>\n<p>\nOn-site transactions are centred on pound sterling, with most key actions handled via the cashier area. Funding your play and paying for on-site services is commonly done using cash and bank cards, as well as options connected to membership and a single wallet where applicable. The exact methods available can depend on internal controls, verification requirements, and player protection rules. If you’re planning larger transactions, it’s smart to factor in potential limits and ID checks.\n\n<\/p>\n<br>\n<p>\nCash machines are typically available either inside the venue or very nearby, making it easy to withdraw cash when needed. Dedicated currency exchange isn’t always offered as an in-venue service, so it’s best to arrive with funds in pounds. If you’re visiting from abroad, a card with favourable exchange rates or pre-exchanged cash can keep things simple. This reduces interruptions and helps your session feel seamless.\n\n<\/p>\n<br>\n<p>\nCashing out winnings usually depends on the type of play and the amount involved: smaller payouts are often handled quickly at the cashier, while larger sums may require additional identity and source-of-funds checks. In some cases, payouts can follow an agreed process or staged handling as part of standard security measures. On tax, the practical takeaway is that the venue operates under local rules, while your personal tax position depends on residency and individual circumstances. For substantial wins, keep payout records and consider speaking to a tax adviser if needed.\n\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisiting rules at Grosvenor Casino Bolton — what to know before you go\n<\/h3>\n\n<p>\nGrosvenor Casino Bolton is for adult guests, and you may be asked for valid ID on entry, especially if you look younger. Clothing should be neat, and a smart-casual approach helps avoid issues at the door. Inside, table etiquette matters and staff actively protect comfort and safety across the floor. Filming and photography on the gaming floor are often restricted to protect privacy and game integrity. Entry can be refused if someone is clearly intoxicated, as responsible gambling is a priority. You must not interfere with dealing, touch cards, or handle chips outside the correct procedures. Disputes should be handled through staff rather than arguments with other guests. Phone use may be limited at certain tables, especially during active hands. Before you play, it’s worth checking minimum stakes and table limits to find the right fit. The venue runs 24\/7, so door control can be tighter during peak hours. If you’re staying a while, plan breaks and set a sensible spend limit. Getting there is usually straightforward by car or public transport, and guest parking is a strong practical plus.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey rules and restrictions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge and ID: 18+ only; ID may be requested on entry and for larger payouts.\n\n<\/li>\n            <li>• \nConduct: no aggression, abuse, or interference with games; staff instructions must be followed.\n\n<\/li>\n            <li>• \nAlcohol: visible intoxication can mean refused entry or service.\n\n<\/li>\n            <li>• \nRecording: photo\/video on the gaming floor is often restricted—ask staff first.\n\n<\/li>\n\t    <li>• \nPhones: some games and tables may request no phone use during hands.\n\n<\/li>\n\t    <li>• \nSecurity: bag checks and extra controls may apply during busy periods.\n\n\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code (guidance):\n\n\n<\/h4>\n\n <ul>\n            <li>• \nGood choices: shirts, polos, smart jeans, dresses, closed shoes, tidy everyday wear.\n\n<\/li>\n            <li>• \nAvoid: sportswear, dirty\/torn items, beach flip-flops, offensive slogans.\n\n<\/li>\n            <li>• \nEasy rule: when in doubt, choose smart casual.\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGetting there and parking:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBy car: easy access in and around the town centre; guest parking is commonly available.\n\n<\/li>\n            <li>• \nPublic transport: bus routes nearby and walkable access from key transport points.\n\n<\/li>\n            <li>• \nTiming tip: weekday daytime is calmer; evenings and weekends bring more buzz.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Grosvenor One loyalty programme in Bolton — tiers, bonuses, and perks\n<\/h3>\n\n<p>\nLoyalty at Grosvenor Casino Bolton is typically built around Grosvenor One and a single wallet that links in-venue play with online activity. For guests, that means easier balance management and more tailored offers over time. You can start with simple sign-up and progress through tiers as your activity grows, unlocking stronger benefits. The programme helps structure your bankroll: funding, using funds, and cashing out can feel more streamlined. With regular visits, the value becomes clearer as rewards and perks add up across gaming and leisure. Responsible gambling tools are also part of the experience, including limits that help you stay in control. Members often see invitations to events, targeted slot or poker promotions, and occasional offers on food and drink. Many also appreciate quicker entry and smoother service at peak times. The programme is especially useful if you mix venue visits with online play, because it adds flexibility and more ways to benefit. Newcomers like the straightforward start, while regulars enjoy the cumulative effect and the club feel. Overall, Grosvenor One adds practical advantages that make each visit feel more rewarding. The more consistent your activity, the more noticeable the status benefits become.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+ and readiness to verify identity.\n\n<\/li>\n            <li>• \nDetails: name, contact info, date of birth, address.\n\n<\/li>\n            <li>• \nVerification: documents may be required for wallet features and larger transactions.\n\n<\/li>\n            <li>• \nHow to join: register as a new member or link an existing club card\/number.\n\n<\/li>\n\t    <li>• \nSecurity: set a PIN\/password and optional limits.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n<\/h4>\n\n <ul>\n            <li>• \nBase \/ Starter: after sign-up; access to core rewards and offers.\n\n<\/li>\n            <li>• \nSilver: with steady repeat visits; more targeted promos and invitations.\n\n<\/li>\n            <li>• \nGold: with higher frequency and play volume; improved perks and faster service.\n\n<\/li>\n            <li>• \nPlatinum \/ VIP: for top activity; priority support and the strongest package.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and perks\n<\/h4>\n\n <ul>\n            <li>• \nOnline welcome offer: £40 for a £20 deposit — a quick start when activating the online wallet (terms and eligible games can vary).\n\n<\/li>\n            <li>• \nOnline slots bonus: up to £20 extra on slots — useful for trying new titles and short sessions.\n\n<\/li>\n            <li>• \nSingle wallet: move funds between venue and online — convenience and added control.\n\n<\/li>\n            <li>• \nFast track entry: quicker access — especially useful on busy nights.\n\n<\/li>\n\t    <li>• \nPersonalised offers: food and drink deals — better value during breaks.\n\n<\/li>\n\n            <li>• \nPoker perks: event invites and improved seating flow (during active poker periods).\n\n<\/li>\n            <li>• \nGifts and draws: periodic promos for members — from bonus play to small prizes.\n\n<\/li>\n            <li>• \nControl tools: deposit limits and reminders — supports safer play.\n\n\n<\/li>\n\n        <\/ul><br>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Grosvenor Casino Bolton",
+                "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and special offers at Grosvenor Casino Bolton — gaming, prizes, and events\n<\/h3>\n\n<p>\nBeyond loyalty, Grosvenor Casino Bolton often runs promotions that add extra excitement and value to a visit. On slots, the main attraction is jackpots and fast-play formats where outcomes depend on luck, stake size, and each game’s features. At live tables, the draw is the atmosphere and pace, while special offers may appear as themed nights or added-value experiences around your visit. Poker is periodically boosted by events where structure, buy-ins, and prize pools matter, plus the buzz that builds around the room. Entertainment-led offers tend to align with evenings and weekends, when guests combine play with social time. Seasonal moments can also appear, such as holiday periods, themed weeks, and special nights. Many enjoy pairing gaming with live sport on screens and a bar-style setting. From time to time, beginner-friendly initiatives can help new guests feel confident with the games. Another advantage is variety: from quick electronic terminals to classic tables and poker. Do note that promotions change, and participation can require registration or meeting specific rules. The more you keep an eye on what’s happening in venue, the more likely you are to catch the best-value offers. Overall, these promos complement the core gaming experience and make visits feel more eventful.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExamples of bonuses, wins, and offers\n<\/h4>\n\n <ul>\n            <li>• \nSlot jackpot: up to £10,000 — top payouts on selected machines\/modes; depends on the game and stake.\n\n<\/li>\n            <li>• \nPoker festival series: guarantees up to £50,000 — can appear during major stops and event weeks; exact terms depend on schedule and structure.\n\n<\/li>\n            <li>• \nPoker satellites: entries from £25+£5 — a lower-cost route into bigger events.\n\n<\/li>\n            <li>• \nThemed slot parties: on-site prize draws (for example, food\/drink vouchers) — boosts the night-out feel.\n\n<\/li>\n\t    <li>• \nElectronic roulette promos: prize draws\/rewards for play streaks — great for fast tempo fans.\n\n<\/li>\n\t    <li>• \nSeasonal events: themed décor and giveaways during festive periods — adds atmosphere and variety.\n\n<\/li>\n\t    <li>• \nSports nights: big games on screens plus bar-style offers — easy to mix viewing with play.\n\n<\/li>\n\t    <li>• \nGift vouchers: dining or visit certificates — a practical gift option.\n\n<\/li>\n\t    <li>• \nPrivate gaming options: reserving areas\/tables for groups (terms and minimums vary by time and demand).\n\n<\/li>\n\t    <li>• \nBeginner-friendly promos: rule demos and guidance — helps new guests start comfortably.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at Grosvenor Casino Bolton — from classics to fast-play formats\n<\/h3>\n\n<p>\nGrosvenor Casino Bolton typically offers a mix designed for different styles of play, from classic live tables to fast electronic betting. Live table games are valued for dealer interaction, real-time pace, and that “true casino” feel where decisions happen in the moment. Roulette appeals because it’s easy to start and offers many bet types, while blackjack is popular for the way player decisions can influence outcomes. Baccarat is often seen as an elegant, straightforward game with quick rounds. Electronic versions keep the tempo high and suit guests who want to play without waiting for a seat. Slots stand out for variety, bonus features, and the chance of bigger payouts, including jackpots on selected machines. Poker has its own dedicated vibe, leaning more competitive, where discipline, reading opponents, and bankroll management matter. Newer players often begin with slots or electronic roulette before moving to live tables. Regulars frequently combine formats—quick games first, then tables, then poker. This mix keeps the night dynamic and lets you match the pace to your mood. It’s worth checking table limits and choosing games that fit your budget and confidence level. Overall, the selection supports both short visits and longer sessions.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGames and formats\n<\/h4>\n\n <ul>\n            <li>• \nRoulette (Live): classic pace, many bet options, strong table atmosphere.\n\n<\/li>\n            <li>• \nBlackjack (Live): player decisions matter; loved for speed and clear rules.\n\n<\/li>\n            <li>• \nBaccarat (Live): quick rounds and simple betting logic; a true classic.\n\n<\/li>\n            <li>• \nThree Card Poker (Live): short hands, fast decisions, great for lively play.\n\n<\/li>\n\t    <li>• \nSuper Stud Poker (Live): poker-style mechanics focused on tempo and risk choice.\n\n<\/li>\n\t    <li>• \nElectronic roulette: rapid betting cycles, no waiting for seats, ideal for short sessions.\n\n<\/li>\n\t    <li>• \nSlots and machines: wide themes, bonus features, and potential jackpots up to £10,000 on selected units.\n\n<\/li>\n\t    <li>• \nPoker (cash games and events): dedicated area blending strategy, psychology, and bankroll control.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStakes at Grosvenor Casino Bolton — practical limit guidance for your budget\n<\/h3>\n\n<p> \nStake sizes in a casino typically vary by time of day, demand, and the specific table or machine. Live tables often have higher minimums than electronic versions, but they deliver the full dealer-led experience and table atmosphere. Electronic games and many machines can start from smaller amounts, which suits beginners and anyone who likes short, controlled sessions. The ranges below are typical guidance points that help you understand the scale and choose a comfortable format.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#00CD70; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£1,500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Three Card Poker (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> £250<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Super Stud Poker (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£250<\/td>\n                <\/tr>\n \n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£100<\/td>\n                <\/tr>\n \n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (per spin)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£10<\/td>\n                <\/tr>\n \n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (cash, buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£50<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">£500<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and entertainment at Grosvenor Casino Bolton — a night that keeps going\n<\/h3>\n\n<p>\nGrosvenor Casino Bolton is often seen as more than just gaming, with entertainment that extends beyond placing bets. A 24\/7 schedule sets a unique tempo: you can drop in for a quick session or build a full night around gaming, drinks, sport, and an event-like buzz. The mood can shift by day—sometimes calmer and ideal for focused play, sometimes more celebratory when themed activities add extra energy. The poker area adds a competitive edge, where cash games and events create a sport-like atmosphere that draws an engaged crowd.\n\n<\/p>\n<br>\n<p>\nWeekend and peak-time entertainment can lift the experience further. On certain nights, you may see a more show-led feel—music, hosted moments, or themed parties that bring a taste of nightlife into the venue. This suits groups of friends who want gaming as part of a wider social plan. At the same time, guests who prefer a quieter vibe can often find space to settle into the games without the busiest buzz.\n\n<\/p>\n<br>\n<p>\nFor sport fans, big fixtures on screens paired with a bar setting create a natural mix of viewing and play. You can switch between tables, conversation, and the match—especially when major sporting events are on. This turns the venue into a social casino experience, not just a gaming stop. Add poker meet-ups into the mix, and you can shape a full evening without travelling far.\n\n<\/p>\n<br>\n<p>\nSpecial slot and poker moments can add extra reasons to visit on specific days, bringing prize draws, on-site promos, and a stronger sense of occasion. Sometimes that looks like slot-focused events with giveaways and guidance, and sometimes it’s a poker tournament run that builds a festival-style feel. The key is accessibility: you don’t need complex planning—just choose the night and arrive. Overall, the venue makes it easy to create your own perfect plan, from calm gaming to a lively night out.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll entertainment options\n<\/h4>\n\n <ul>\n            <li>• \nLive sport on screens: major matches and events in a bar-like setting.\n\n<\/li>\n            <li>• \nLive music and acts: occasional show elements on selected nights.\n\n<\/li>\n            <li>• \nThemed nights: seasonal and occasion-led evenings with added atmosphere.\n\n<\/li>\n            <li>• \nPoker events: cash games and series that bring competitive energy.\n\n<\/li>\n\t    <li>• \nSlot events: draws, prizes, and activity around machines.\n\n<\/li>\n\t    <li>• \nSocial night-out vibe: gaming plus drinks and conversation for groups.\n\n<\/li>\n\t    <li>• \nPrivate options: group arrangements available by agreement.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, dining, and downtime at Grosvenor Casino Bolton — a comfortable way to spend the night\n<\/h3>\n\n<p>\nDowntime at Grosvenor Casino Bolton often follows a simple, effective rhythm: play, pause, eat or drink, then return to the tables or machines. On site, there is typically a bar where you can grab a drink and reset between sessions without leaving the venue. The bar vibe pairs well with live sport on screens and socialising, especially later in the day. For guests staying longer, having food and drink available is a key part of comfort.\n\n<\/p>\n<br>\n<p>\nDining in this kind of venue is usually designed for flexibility, offering lighter bites for quick breaks and more filling options for a proper meal. That’s ideal if you’re planning a long night and don’t want to lose time searching elsewhere. The on-site setup supports the flow of the evening, letting you alternate gaming and rest without breaking the atmosphere. Groups in particular appreciate being able to keep the whole night in one place.\n\n<\/p>\n<br>\n<p>\nIn terms of accommodation, the casino itself isn’t a hotel, but there are commonly nearby options if you’re visiting late or travelling in. A practical approach is choosing a hotel close by so you’re not relying on transport at night. That creates a mini-break feel: gaming, dinner, evening entertainment, and then rest without rushing. It turns the venue into a convenient hub where play and leisure naturally complement each other.\n\n<\/p>\n<br>\n<p>\nOverall, the experience is built around choice: you can focus on gaming, lean into the social side, or blend both. The bar and food options keep things comfortable during longer sessions. Nearby services and accommodation make it easier to plan around different schedules. The best approach is to think ahead about timing and set a pace that suits you.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaces to relax\n<\/h4>\n\n <ul>\n            <li>• \nBar: drinks, breaks between sessions, a social feel, and sport on screens at selected times.\n\n<\/li>\n            <li>• \nRestaurant\/food area: quick bites and fuller meals for longer visits.\n\n<\/li>\n            <li>• \nLounge-style space: areas to unwind and chat between sessions.\n\n<\/li>\n            <li>• \nNearby hotels: a convenient overnight option after a late visit.\n\n\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need registration to play in the poker room?",
+                    "answer": "You can often speak to poker staff for seating; scheduled events may have specific registration and buy-in rules.\n\n\n"
+                },
+                {
+                    "title": "Is card payment available at the bar and restaurant?",
+                    "answer": "Generally yes, though accepted methods can vary; it’s sensible to have both a card and some cash.\n\n\n"
+                },
+                {
+                    "title": "What responsible gambling tools are available?",
+                    "answer": "Limits, self-exclusion options, and staff support are commonly available to help control time and spending.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2011",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grosvenor Casino Bolton"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-GB",
+            "name": "Английский",
+            "isDefault": true
+        }
+    ]
+}
